@@ -16,7 +16,7 @@ import { Component, OnInit } from '@angular/core';
        <div class="col-3" style="margin-top:20%">
          <div class="card" style="width: 18rem;">
            <div class="card-body">
-             <h5 class=" mb-4 card-title" style="color:#;font-family: 'Arial Black'; font-size: 30px; Text-align: center">Tell us more</h5>
+             <h5 class=" mb-4 card-title" style="color:#0f2459;font-family: 'Arial Black'; font-size: 30px; Text-align: center">Tell us more</h5>
              <div class="">
                <label for="exampleFormControlInput1" class="form-label">Where were you born?</label>
                <input type="email" class="form-control" id="exampleFormControlInput1" placeholder>
